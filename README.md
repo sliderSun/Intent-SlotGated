@@ -27,7 +27,7 @@ You may see ./data/atis for more detail.
 
 ## Requirements
 tensorflow 1.12 <br>
-python 3.5
+python 3.6
 
 ## Usage
 some sample usage <br>
